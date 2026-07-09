@@ -1,0 +1,13 @@
+element.style {
+}
+<style>
+.__web-inspector-hide-shortcut__, .__web-inspector-hide-shortcut__ *
+Specificity: (0,1,0)
+ {
+    visibility: hidden !important;
+}
+
+user agent stylesheet
+link {
+    display: none;
+}
